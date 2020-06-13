@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.yankee88888g.Carefulbreak.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockBreakMixin",
+    "EntityDropMixin",
+    "shears.BeehiveBlockMixin",
+    "shears.MooshroomEntityMixin",
+    "shears.PumpkinBlockMixin",
+    "shears.SheepEntityMixin",
+    "HopperBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

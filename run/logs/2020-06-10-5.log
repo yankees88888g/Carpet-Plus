@@ -1,0 +1,68 @@
+[13:32:13] [main/INFO] (FabricLoader) Loading for game Minecraft 1.15.2
+[13:32:14] [main/INFO] (Fabric|Loader) [FabricLoader] Loading 39 mods: minecraft@1.15.2, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-networking-blockentity-v0@0.2.3+e08a73050c, fabric-keybindings-v0@0.1.1+dfdb52d60c, fabric-command-api-v1@1.0.2+2aebb7ff0c, fabricloader@0.8.7+build.201, fabric-tool-attribute-api-v1@1.1.0+3e5587510c, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, fabric-object-builder-api-v1@1.2.1+e7a4edb30c, fabric-dimensions-v1@0.3.0+2ad156310c, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, fabric-events-interaction-v0@0.3.0+fac69e320c, carefuldrops@3.1.0, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@1.0.0+2a034f0a0c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, autoconfig1u@2.2.0, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, fabric-commands-v0@0.2.0+2e0c4ff50c, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, fabric-mining-levels-v0@0.1.2+ec951ea40c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, fabric-climbable-api-v1@1.0.0+6ffe71e20c, fabric-events-lifecycle-v0@0.1.2+003643510c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.11.1+build.312-1.15, fabric-particles-v1@0.1.2+ad2f81bd0c, fabric-item-groups-v0@0.1.6+045efb460c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-object-builders-v0@0.5.1+3e5587510c, fabric-networking-v0@0.1.7+003643510c
+[13:32:14] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/yankee/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8+build.18/af077ad2845a00cde186fa2c99c4dd32bd2a2766/sponge-mixin-0.8+build.18.jar Service=Knot/Fabric Env=SERVER
+[13:32:15] [main/INFO] (Fabric|MixinBootstrap) Loaded Fabric development mappings for mixin remapper!
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-networking-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-particles-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-object-builders-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-tool-attribute-api-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-object-builder-api-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-dimensions-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-command-api-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
+[13:32:15] [main/INFO] (mixin) Remapping refMap fabric-climbable-api-v1-refmap.json using remapper chain
+[13:32:15] [main/WARN] (mixin) @Mixin target net/minecraft/server/world/ThreadedAnvilChunkStorage$EntityTracker is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[13:32:25] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:25] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:25] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:25] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:32:25] [main/WARN] (Minecraft) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:32:28] [Server thread/INFO] (Minecraft) Starting minecraft server version 1.15.2
+[13:32:28] [Server thread/INFO] (Minecraft) Loading properties
+[13:32:28] [Server thread/INFO] (Minecraft) Default game type: SURVIVAL
+[13:32:28] [Server thread/INFO] (Minecraft) Generating keypair
+[13:32:28] [Server thread/INFO] (Minecraft) Starting Minecraft server on *:25565
+[13:32:28] [Server thread/INFO] (Minecraft) Using default channel type
+[13:32:32] [Server thread/INFO] (Minecraft) Preparing level "world"
+[13:32:32] [Server thread/INFO] (Minecraft) [fabric-registry-sync] Loaded registry data [file 1/4]
+[13:32:32] [Server thread/INFO] (Minecraft) Reloading ResourceManager: Default, Fabric Tool Attribute API (v1)
+[13:32:34] [Server thread/INFO] (Minecraft) Loaded 6 recipes
+[13:32:36] [Server thread/INFO] (Minecraft) Loaded 825 advancements
+[13:32:45] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[13:32:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:32:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:32:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:32:47] [Server thread/INFO] (Minecraft) Preparing spawn area: 0%
+[13:32:51] [Server-Worker-1/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 83%
+[13:32:51] [Server-Worker-1/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:51] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:52] [Server-Worker-3/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:53] [Server-Worker-1/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:53] [Server-Worker-3/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:53] [Server-Worker-2/INFO] (Minecraft) Preparing spawn area: 87%
+[13:32:54] [Server-Worker-3/INFO] (Minecraft) Preparing spawn area: 90%
+[13:32:55] [Server thread/INFO] (Minecraft) Preparing spawn area: 92%
+[13:32:55] [Server thread/INFO] (Minecraft) Time elapsed: 9374 ms
+[13:32:55] [Server thread/INFO] (Minecraft) Done (22.922s)! For help, type "help"
+[13:33:02] [User Authenticator #1/INFO] (Minecraft) UUID of player yankees88888g is 3a5cab62-a663-4feb-a358-975c571c10bc
+[13:33:03] [Server thread/INFO] (Minecraft) yankees88888g[/127.0.0.1:58333] logged in with entity id 265 at (236.45394085651645, 64.0, 202.14382949360788)
+[13:33:03] [Server thread/INFO] (Minecraft) yankees88888g joined the game

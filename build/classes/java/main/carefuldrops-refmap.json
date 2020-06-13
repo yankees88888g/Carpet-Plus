@@ -1,0 +1,64 @@
+{
+  "mappings": {
+    "me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin": {
+      "Lnet/minecraft/block/Block;getDroppedStacks(Lnet/minecraft/block/BlockState;Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/entity/BlockEntity;Lnet/minecraft/entity/Entity;Lnet/minecraft/item/ItemStack;)Ljava/util/List;": "Lnet/minecraft/class_2248;method_9609(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_2586;Lnet/minecraft/class_1297;Lnet/minecraft/class_1799;)Ljava/util/List;",
+      "dropStacks(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/entity/BlockEntity;Lnet/minecraft/entity/Entity;Lnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/class_2248;method_9511(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2586;Lnet/minecraft/class_1297;Lnet/minecraft/class_1799;)V"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/shears/MooshroomEntityMixin": {
+      "interactMob": "Lnet/minecraft/class_1438;method_5992(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Z",
+      "Lnet/minecraft/world/World;spawnEntity(Lnet/minecraft/entity/Entity;)Z": "Lnet/minecraft/class_1937;method_8649(Lnet/minecraft/class_1297;)Z"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/shears/PumpkinBlockMixin": {
+      "Lnet/minecraft/world/World;spawnEntity(Lnet/minecraft/entity/Entity;)Z": "Lnet/minecraft/class_1937;method_8649(Lnet/minecraft/class_1297;)Z",
+      "onUse": "Lnet/minecraft/class_2445;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/shears/BeehiveBlockMixin": {
+      "Lnet/minecraft/block/BeehiveBlock;dropHoneycomb(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V": "Lnet/minecraft/class_4481;method_21842(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V",
+      "onUse": "Lnet/minecraft/class_4481;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/EntityDropMixin": {
+      "Lnet/minecraft/loot/LootTable;dropLimited(Lnet/minecraft/loot/context/LootContext;Ljava/util/function/Consumer;)V": "Lnet/minecraft/class_52;method_320(Lnet/minecraft/class_47;Ljava/util/function/Consumer;)V",
+      "dropLoot": "Lnet/minecraft/class_1309;method_16077(Lnet/minecraft/class_1282;Z)V"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin": {
+      "interactMob": "Lnet/minecraft/class_1472;method_5992(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Z",
+      "Lnet/minecraft/entity/passive/SheepEntity;dropItems()V": "Lnet/minecraft/class_1472;method_6636()V"
+    },
+    "me/yankee88888g/Carefulbreak/mixin/HopperBlockEntityMixin": {
+      "transfer(Lnet/minecraft/inventory/Inventory;Lnet/minecraft/inventory/Inventory;Lnet/minecraft/item/ItemStack;ILnet/minecraft/util/math/Direction;)Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/class_2614;method_11253(Lnet/minecraft/class_1263;Lnet/minecraft/class_1263;Lnet/minecraft/class_1799;ILnet/minecraft/class_2350;)Lnet/minecraft/class_1799;",
+      "insertAndExtract": "Lnet/minecraft/class_2614;method_11243(Ljava/util/function/Supplier;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin": {
+        "Lnet/minecraft/block/Block;getDroppedStacks(Lnet/minecraft/block/BlockState;Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/entity/BlockEntity;Lnet/minecraft/entity/Entity;Lnet/minecraft/item/ItemStack;)Ljava/util/List;": "Lnet/minecraft/class_2248;method_9609(Lnet/minecraft/class_2680;Lnet/minecraft/class_3218;Lnet/minecraft/class_2338;Lnet/minecraft/class_2586;Lnet/minecraft/class_1297;Lnet/minecraft/class_1799;)Ljava/util/List;",
+        "dropStacks(Lnet/minecraft/block/BlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/entity/BlockEntity;Lnet/minecraft/entity/Entity;Lnet/minecraft/item/ItemStack;)V": "Lnet/minecraft/class_2248;method_9511(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2586;Lnet/minecraft/class_1297;Lnet/minecraft/class_1799;)V"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/shears/MooshroomEntityMixin": {
+        "interactMob": "Lnet/minecraft/class_1438;method_5992(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Z",
+        "Lnet/minecraft/world/World;spawnEntity(Lnet/minecraft/entity/Entity;)Z": "Lnet/minecraft/class_1937;method_8649(Lnet/minecraft/class_1297;)Z"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/shears/PumpkinBlockMixin": {
+        "Lnet/minecraft/world/World;spawnEntity(Lnet/minecraft/entity/Entity;)Z": "Lnet/minecraft/class_1937;method_8649(Lnet/minecraft/class_1297;)Z",
+        "onUse": "Lnet/minecraft/class_2445;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/shears/BeehiveBlockMixin": {
+        "Lnet/minecraft/block/BeehiveBlock;dropHoneycomb(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V": "Lnet/minecraft/class_4481;method_21842(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;)V",
+        "onUse": "Lnet/minecraft/class_4481;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/EntityDropMixin": {
+        "Lnet/minecraft/loot/LootTable;dropLimited(Lnet/minecraft/loot/context/LootContext;Ljava/util/function/Consumer;)V": "Lnet/minecraft/class_52;method_320(Lnet/minecraft/class_47;Ljava/util/function/Consumer;)V",
+        "dropLoot": "Lnet/minecraft/class_1309;method_16077(Lnet/minecraft/class_1282;Z)V"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin": {
+        "interactMob": "Lnet/minecraft/class_1472;method_5992(Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;)Z",
+        "Lnet/minecraft/entity/passive/SheepEntity;dropItems()V": "Lnet/minecraft/class_1472;method_6636()V"
+      },
+      "me/yankee88888g/Carefulbreak/mixin/HopperBlockEntityMixin": {
+        "transfer(Lnet/minecraft/inventory/Inventory;Lnet/minecraft/inventory/Inventory;Lnet/minecraft/item/ItemStack;ILnet/minecraft/util/math/Direction;)Lnet/minecraft/item/ItemStack;": "Lnet/minecraft/class_2614;method_11253(Lnet/minecraft/class_1263;Lnet/minecraft/class_1263;Lnet/minecraft/class_1799;ILnet/minecraft/class_2350;)Lnet/minecraft/class_1799;",
+        "insertAndExtract": "Lnet/minecraft/class_2614;method_11243(Ljava/util/function/Supplier;)Z"
+      }
+    }
+  }
+}

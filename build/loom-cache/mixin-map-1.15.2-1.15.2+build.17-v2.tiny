@@ -1,0 +1,5 @@
+v1	named	intermediary
+FIELD	me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin	Ljava/util/Map;	DROPS	field_6868
+METHOD	me/yankee88888g/Carefulbreak/mixin/shears/BeehiveBlockMixin	(Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;)V	dropHoneycomb	method_21842
+METHOD	me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin	(Z)V	setSheared	method_6635
+METHOD	me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin	()Lnet/minecraft/util/DyeColor;	getColor	method_6633

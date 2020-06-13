@@ -1,0 +1,46 @@
+{
+  "blocks": {
+    "overrideBlockDrops": {
+      "comment": "When true, drops from breaking/mining blocks will be placed in the player inventory instead of spawned in the world",
+      "value": true
+    },
+    "isOverrideKeyBind": {
+      "comment": "only work when pressing shift",
+      "value": true
+    },
+    "isFastHopper": {
+      "comment": "fast hoppers",
+      "value": true
+    }
+  },
+  "shears": {
+    "overrideMooshroomDrops": {
+      "comment": "When true, right clicking on Mooshrooms with shears places drops in the player inventory instead of spawned in the world",
+      "value": false
+    },
+    "overrideBeehiveDrops": {
+      "comment": "When true, right clicking on Beehives with shears places drops in the player inventory instead of spawned in the world",
+      "value": true
+    },
+    "overridePumpkinDrops": {
+      "comment": "When true, right clicking on pumpkins with shears places drops in the player inventory instead of spawned in the world",
+      "value": true
+    },
+    "overrideSheepDrops": {
+      "comment": "When true, right clicking on sheep with shears places drops in the player inventory instead of spawned in the world",
+      "value": false
+    }
+  },
+  "lol": {
+    "lol": {
+      "comment": "test",
+      "value": "disable"
+    }
+  },
+  "entities": {
+    "overrideEntityDrops": {
+      "comment": "When true, drops from killing entities will be placed in the player inventory instead of spawned in the world",
+      "value": false
+    }
+  }
+}

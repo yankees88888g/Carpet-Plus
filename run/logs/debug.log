@@ -1,0 +1,467 @@
+[20:29:50] [main/INFO] (FabricLoader) Loading for game Minecraft 1.15.2
+[20:29:50] [main/DEBUG] (FabricLoader) Requesting deobfuscation of minecraft-1.15.2-mapped-net.fabricmc.yarn-1.15.2+build.17-v2.jar
+[20:29:50] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/.gradle/caches/fabric-loom/1.15.2-mapped-net.fabricmc.yarn-1.15.2+build.17-v2/minecraft-1.15.2-mapped-net.fabricmc.yarn-1.15.2+build.17-v2.jar to classpath.
+[20:29:50] [main/DEBUG] (FabricLoader|EntrypointTransformer) Found game constructor: net.minecraft.server.MinecraftServer -> net.minecraft.server.dedicated.MinecraftDedicatedServer
+[20:29:50] [main/DEBUG] (FabricLoader|EntrypointTransformer) Patching game constructor <init>(Ljava/io/File;Lnet/minecraft/server/dedicated/ServerPropertiesLoader;Lcom/mojang/datafixers/DataFixer;Lcom/mojang/authlib/yggdrasil/YggdrasilAuthenticationService;Lcom/mojang/authlib/minecraft/MinecraftSessionService;Lcom/mojang/authlib/GameProfileRepository;Lnet/minecraft/util/UserCache;Lnet/minecraft/server/WorldGenerationProgressListenerFactory;Ljava/lang/String;)V
+[20:29:50] [main/DEBUG] (FabricLoader|EntrypointTransformer) Applying brand name hook to net/minecraft/client/ClientBrandRetriever::getClientModName
+[20:29:50] [main/DEBUG] (FabricLoader|EntrypointTransformer) Applying brand name hook to net/minecraft/server/MinecraftServer::getServerModName
+[20:29:50] [main/DEBUG] (FabricLoader|EntrypointTransformer) [EntrypointTransformer] Patched 3 classes.
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Adding dev classpath directories to classpath.
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-indigo-0.2.23+9290e2ed0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-blockentity-v0-0.2.3+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-indigo-0.2.23+9290e2ed0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/build/libs/carefuldrops-3.1.0-dev.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-blockentity-v0-0.2.3+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-climbable-api-v1-1.0.0+6ffe71e20c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-content-registries-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-fluids-v1-0.1.6+12515ed90c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-containers-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/build/libs/carefuldrops-3.1.0-dev.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-data-attachment-v1-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-particles-v1-0.1.2+ad2f81bd0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-keybindings-v0-0.1.1+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-item-groups-v0-0.1.6+045efb460c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tag-extensions-v0-0.1.3+abd915800c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-dimensions-v1-0.3.0+2ad156310c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v1-1.0.0+2a034f0a0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-lifecycle-v0-0.1.2+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-interaction-v0-0.3.0+fac69e320c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builder-api-v1-1.2.1+e7a4edb30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v0-1.1.0+534104900c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/autoconfig1u-2.2.0@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builders-v0-0.5.1+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-crash-report-info-v1-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tool-attribute-api-v1-1.1.0+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-resource-loader-v0-0.1.10+06c939b30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-textures-v0-1.0.4+821cdba70c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-biomes-v1-0.1.5+3b05f68e0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-mining-levels-v0-0.1.2+ec951ea40c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-base-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loot-tables-v1-0.1.5+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-models-v0-0.1.0+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-v0-0.1.7+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-command-api-v1-1.0.2+2aebb7ff0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-0.11.1+build.312-1.15@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-registry-sync-v0-0.2.6+f3d8141b0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-registries-v1-2.0.1+5a0f9a600c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-commands-v0-0.2.0+2e0c4ff50c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-blockrenderlayer-v1-1.1.4+c6a8ea890c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [main/DEBUG] (Fabric|Loader) [ClasspathModCandidateFinder] Processing /C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-api-v1-0.2.10+f08b61330c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/build/libs/carefuldrops-3.1.0-dev.jar as ModCandidate{carefuldrops@3.1.0}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-blockentity-v0-0.2.3+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-networking-blockentity-v0@0.2.3+e08a73050c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-indigo-0.2.23+9290e2ed0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-renderer-indigo@0.2.23+9290e2ed0c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-networking-blockentity-v0@0.2.3+e08a73050c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{carefuldrops@3.1.0}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-renderer-indigo@0.2.23+9290e2ed0c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-content-registries-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-climbable-api-v1-1.0.0+6ffe71e20c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabricloader@0.8.7+build.201}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabricloader@0.8.7+build.201}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-fluids-v1-0.1.6+12515ed90c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-content-registries-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-content-registries-v0@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-content-registries-v0@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-containers-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-climbable-api-v1-1.0.0+6ffe71e20c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-climbable-api-v1@1.0.0+6ffe71e20c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-climbable-api-v1@1.0.0+6ffe71e20c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-data-attachment-v1-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-containers-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-containers-v0@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-containers-v0@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-particles-v1-0.1.2+ad2f81bd0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-fluids-v1-0.1.6+12515ed90c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-rendering-fluids-v1@0.1.6+12515ed90c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-rendering-fluids-v1@0.1.6+12515ed90c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-keybindings-v0-0.1.1+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-particles-v1-0.1.2+ad2f81bd0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-particles-v1@0.1.2+ad2f81bd0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-particles-v1@0.1.2+ad2f81bd0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-item-groups-v0-0.1.6+045efb460c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-data-attachment-v1-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tag-extensions-v0-0.1.3+abd915800c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-item-groups-v0-0.1.6+045efb460c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-item-groups-v0@0.1.6+045efb460c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-item-groups-v0@0.1.6+045efb460c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-dimensions-v1-0.3.0+2ad156310c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-keybindings-v0-0.1.1+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-keybindings-v0@0.1.1+dfdb52d60c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-keybindings-v0@0.1.1+dfdb52d60c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v1-1.0.0+2a034f0a0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-dimensions-v1-0.3.0+2ad156310c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-dimensions-v1@0.3.0+2ad156310c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-dimensions-v1@0.3.0+2ad156310c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-lifecycle-v0-0.1.2+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tag-extensions-v0-0.1.3+abd915800c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-tag-extensions-v0@0.1.3+abd915800c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-tag-extensions-v0@0.1.3+abd915800c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-interaction-v0-0.3.0+fac69e320c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-lifecycle-v0-0.1.2+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-events-lifecycle-v0@0.1.2+003643510c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-events-lifecycle-v0@0.1.2+003643510c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builder-api-v1-1.2.1+e7a4edb30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v1-1.0.0+2a034f0a0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-rendering-v1@1.0.0+2a034f0a0c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-rendering-v1@1.0.0+2a034f0a0c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v0-1.1.0+534104900c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builder-api-v1-1.2.1+e7a4edb30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-object-builder-api-v1@1.2.1+e7a4edb30c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-object-builder-api-v1@1.2.1+e7a4edb30c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/autoconfig1u-2.2.0@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-interaction-v0-0.3.0+fac69e320c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-events-interaction-v0@0.3.0+fac69e320c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-events-interaction-v0@0.3.0+fac69e320c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builders-v0-0.5.1+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/autoconfig1u-2.2.0@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{autoconfig1u@2.2.0}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{autoconfig1u@2.2.0}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-crash-report-info-v1-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-v0-1.1.0+534104900c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-rendering-v0@1.1.0+534104900c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-rendering-v0@1.1.0+534104900c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tool-attribute-api-v1-1.1.0+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-crash-report-info-v1-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-crash-report-info-v1@0.1.2+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-crash-report-info-v1@0.1.2+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-resource-loader-v0-0.1.10+06c939b30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builders-v0-0.5.1+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-object-builders-v0@0.5.1+3e5587510c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-object-builders-v0@0.5.1+3e5587510c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-textures-v0-1.0.4+821cdba70c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-resource-loader-v0-0.1.10+06c939b30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-resource-loader-v0@0.1.10+06c939b30c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-resource-loader-v0@0.1.10+06c939b30c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-biomes-v1-0.1.5+3b05f68e0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tool-attribute-api-v1-1.1.0+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-tool-attribute-api-v1@1.1.0+3e5587510c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-tool-attribute-api-v1@1.1.0+3e5587510c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-mining-levels-v0-0.1.2+ec951ea40c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-biomes-v1-0.1.5+3b05f68e0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-biomes-v1@0.1.5+3b05f68e0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-biomes-v1@0.1.5+3b05f68e0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-base-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-textures-v0-1.0.4+821cdba70c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-textures-v0@1.0.4+821cdba70c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-textures-v0@1.0.4+821cdba70c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loot-tables-v1-0.1.5+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-base-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-api-base@0.1.2+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-api-base@0.1.2+b7f9825d0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-models-v0-0.1.0+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-mining-levels-v0-0.1.2+ec951ea40c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-mining-levels-v0@0.1.2+ec951ea40c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-mining-levels-v0@0.1.2+ec951ea40c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-v0-0.1.7+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-models-v0-0.1.0+dfdb52d60c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-models-v0@0.1.0+dfdb52d60c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-models-v0@0.1.0+dfdb52d60c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-command-api-v1-1.0.2+2aebb7ff0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loot-tables-v1-0.1.5+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-loot-tables-v1@0.1.5+e08a73050c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-loot-tables-v1@0.1.5+e08a73050c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-0.11.1+build.312-1.15@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-command-api-v1-1.0.2+2aebb7ff0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-command-api-v1@1.0.2+2aebb7ff0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-command-api-v1@1.0.2+2aebb7ff0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-registry-sync-v0-0.2.6+f3d8141b0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-v0-0.1.7+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-networking-v0@0.1.7+003643510c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-networking-v0@0.1.7+003643510c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-registries-v1-2.0.1+5a0f9a600c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-registry-sync-v0-0.2.6+f3d8141b0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-registry-sync-v0@0.2.6+f3d8141b0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-registry-sync-v0@0.2.6+f3d8141b0c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-commands-v0-0.2.0+2e0c4ff50c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-0.11.1+build.312-1.15@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric@0.11.1+build.312-1.15}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric@0.11.1+build.312-1.15}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-blockrenderlayer-v1-1.1.4+c6a8ea890c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-commands-v0-0.2.0+2e0c4ff50c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-commands-v0@0.2.0+2e0c4ff50c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-commands-v0@0.2.0+2e0c4ff50c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Testing file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-api-v1-0.2.10+f08b61330c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-registries-v1-2.0.1+5a0f9a600c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-renderer-registries-v1@2.0.1+5a0f9a600c}
+[20:29:51] [ForkJoinPool-1-worker-2/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-renderer-registries-v1@2.0.1+5a0f9a600c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-renderer-api-v1-0.2.10+f08b61330c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-renderer-api-v1@0.2.10+f08b61330c}
+[20:29:51] [ForkJoinPool-1-worker-3/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-renderer-api-v1@0.2.10+f08b61330c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Adding file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-blockrenderlayer-v1-1.1.4+c6a8ea890c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar as ModCandidate{fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c}
+[20:29:51] [ForkJoinPool-1-worker-1/DEBUG] (Fabric|Loader) Searching for nested JARs in ModCandidate{fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c}
+[20:29:51] [main/DEBUG] (Fabric|Loader) Mod resolution detection time: 353ms
+[20:29:51] [main/DEBUG] (Fabric|Loader) Mod resolution time: 14ms
+[20:29:51] [main/INFO] (Fabric|Loader) [FabricLoader] Loading 39 mods: fabric-networking-blockentity-v0@0.2.3+e08a73050c, minecraft@1.15.2, fabric-renderer-api-v1@0.2.10+f08b61330c, fabric-keybindings-v0@0.1.1+dfdb52d60c, fabric-command-api-v1@1.0.2+2aebb7ff0c, fabricloader@0.8.7+build.201, fabric-tool-attribute-api-v1@1.1.0+3e5587510c, fabric-renderer-indigo@0.2.23+9290e2ed0c, fabric-containers-v0@0.1.3+b7f9825d0c, fabric-dimensions-v1@0.3.0+2ad156310c, fabric-object-builder-api-v1@1.2.1+e7a4edb30c, fabric-biomes-v1@0.1.5+3b05f68e0c, fabric-events-interaction-v0@0.3.0+fac69e320c, fabric-crash-report-info-v1@0.1.2+b7f9825d0c, carefuldrops@3.1.0, fabric-api-base@0.1.2+b7f9825d0c, fabric-rendering-v0@1.1.0+534104900c, fabric-rendering-v1@1.0.0+2a034f0a0c, fabric-rendering-data-attachment-v1@0.1.3+b7f9825d0c, autoconfig1u@2.2.0, fabric-resource-loader-v0@0.1.10+06c939b30c, fabric-textures-v0@1.0.4+821cdba70c, fabric-content-registries-v0@0.1.3+b7f9825d0c, fabric-tag-extensions-v0@0.1.3+abd915800c, fabric-rendering-fluids-v1@0.1.6+12515ed90c, fabric-registry-sync-v0@0.2.6+f3d8141b0c, fabric-commands-v0@0.2.0+2e0c4ff50c, fabric-blockrenderlayer-v1@1.1.4+c6a8ea890c, fabric-mining-levels-v0@0.1.2+ec951ea40c, fabric-climbable-api-v1@1.0.0+6ffe71e20c, fabric-renderer-registries-v1@2.0.1+5a0f9a600c, fabric-events-lifecycle-v0@0.1.2+003643510c, fabric-loot-tables-v1@0.1.5+e08a73050c, fabric@0.11.1+build.312-1.15, fabric-particles-v1@0.1.2+ad2f81bd0c, fabric-item-groups-v0@0.1.6+045efb460c, fabric-models-v0@0.1.0+dfdb52d60c, fabric-object-builders-v0@0.5.1+3e5587510c, fabric-networking-v0@0.1.7+003643510c
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-blockentity-v0-0.2.3+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/.gradle/caches/fabric-loom/1.15.2-mapped-net.fabricmc.yarn-1.15.2+build.17-v2/minecraft-1.15.2-mapped-net.fabricmc.yarn-1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-command-api-v1-1.0.2+2aebb7ff0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tool-attribute-api-v1-1.1.0+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-containers-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-dimensions-v1-0.3.0+2ad156310c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builder-api-v1-1.2.1+e7a4edb30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-biomes-v1-0.1.5+3b05f68e0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-interaction-v0-0.3.0+fac69e320c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-crash-report-info-v1-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/build/libs/carefuldrops-3.1.0-dev.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-base-0.1.2+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-rendering-data-attachment-v1-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/autoconfig1u-2.2.0@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-resource-loader-v0-0.1.10+06c939b30c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-content-registries-v0-0.1.3+b7f9825d0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-tag-extensions-v0-0.1.3+abd915800c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-registry-sync-v0-0.2.6+f3d8141b0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-commands-v0-0.2.0+2e0c4ff50c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-mining-levels-v0-0.1.2+ec951ea40c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-climbable-api-v1-1.0.0+6ffe71e20c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-events-lifecycle-v0-0.1.2+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loot-tables-v1-0.1.5+e08a73050c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-api-0.11.1+build.312-1.15@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-particles-v1-0.1.2+ad2f81bd0c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-item-groups-v0-0.1.6+045efb460c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-object-builders-v0-0.5.1+3e5587510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (FabricLoader) [Knot] Proposed file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-networking-v0-0.1.7+003643510c@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar to classpath.
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.tool.attribute.ToolHandlers for mod fabric-tool-attribute-api-v1 (key main)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.client.container.ScreenProviderRegistryImpl::init for mod fabric-containers-v0 (key client)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.dimension.FabricDimensionClientInit::onClientInit for mod fabric-dimensions-v1 (key client)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouterClient for mod fabric-events-interaction-v0 (key client)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.event.interaction.InteractionEventsRouter for mod fabric-events-interaction-v0 (key main)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer me.yankee88888g.Carefulbreak.CarefulBlocks for mod carefuldrops (key main)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer me.sargunvohra.mcmods.autoconfig1u.example.ExampleModMenuCompat for mod autoconfig1u (key modmenu)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer me.sargunvohra.mcmods.autoconfig1u.example.ExampleInitClient for mod autoconfig1u (key client)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer me.sargunvohra.mcmods.autoconfig1u.example.ExampleInit for mod autoconfig1u (key main)
+[20:29:51] [main/DEBUG] (Fabric|Loader) Registering new-style initializer net.fabricmc.fabric.impl.registry.sync.FabricRegistryClientInit for mod fabric-registry-sync-v0 (key client)
+[20:29:51] [main/DEBUG] (FabricLoader) Loading mappings took 198 ms
+[20:29:51] [main/DEBUG] (mixin) Mixin bootstrap service org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapperBootstrap is not available: LaunchWrapper is not available
+[20:29:51] [main/DEBUG] (mixin) Mixin bootstrap service org.spongepowered.asm.service.modlauncher.MixinServiceModLauncherBootstrap is not available: ModLauncher is not available
+[20:29:51] [main/DEBUG] (mixin) MixinService [ModLauncher] is not valid
+[20:29:51] [main/DEBUG] (mixin) MixinService [Knot/Fabric] was successfully booted in sun.misc.Launcher$AppClassLoader@6e8cf4c6
+[20:29:51] [main/INFO] (mixin) SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/yankee/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.8+build.18/af077ad2845a00cde186fa2c99c4dd32bd2a2766/sponge-mixin-0.8+build.18.jar Service=Knot/Fabric Env=SERVER
+[20:29:51] [main/DEBUG] (mixin) Initialising Mixin Platform Manager
+[20:29:51] [main/DEBUG] (mixin) Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)
+[20:29:51] [main/DEBUG] (mixin) Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)
+[20:29:51] [main/DEBUG] (mixin) MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)
+[20:29:51] [main/DEBUG] (mixin) Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)
+[20:29:51] [main/DEBUG] (mixin) MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)
+[20:29:51] [main/DEBUG] (mixin) Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)]
+[20:29:51] [main/DEBUG] (mixin) Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/yankee/Downloads/Carpet-Plus-master/Carpet-Plus-master/.gradle/loom-cache/remapped_mods/fabric-loader-0.8.7+build.201@net.fabricmc.yarn.1_15_2.1.15.2+build.17-v2.jar)]
+[20:29:52] [main/INFO] (Fabric|MixinBootstrap) Loaded Fabric development mappings for mixin remapper!
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-networking-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-networking-blockentity-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-biomes-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-resource-loader-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-particles-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-containers-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-object-builders-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-tag-extensions-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-tool-attribute-api-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-rendering-data-attachment-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-item-groups-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-events-interaction-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-loot-tables-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-object-builder-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-content-registries-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-dimensions-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-registry-sync-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-command-api-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-crash-report-info-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-containers-v0.accurate.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-events-lifecycle-v0.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Mixin config fabric-climbable-api-v1.mixins.json does not specify "minVersion" property
+[20:29:52] [main/DEBUG] (mixin) Error cleaning class output directory: .mixin.out\class: failed to delete one or more files; see suppressed exceptions for details
+[20:29:52] [main/DEBUG] (Fabric|Loader) No subscribers for entrypoint 'preLaunch'
+[20:29:52] [main/DEBUG] (mixin) Preparing mixins for MixinEnvironment[DEFAULT]
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-networking-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-networking-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-networking-blockentity-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-networking-blockentity-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-biomes-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-biomes-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-resource-loader-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-resource-loader-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-particles-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-particles-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-containers-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config carefuldrops.mixins.json
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-object-builders-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-object-builders-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-tag-extensions-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-tag-extensions-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-tool-attribute-api-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-tool-attribute-api-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-rendering-data-attachment-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-rendering-data-attachment-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-item-groups-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-item-groups-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-events-interaction-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-events-interaction-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-loot-tables-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-loot-tables-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-object-builder-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-object-builder-api-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-content-registries-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-content-registries-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-dimensions-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-dimensions-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-registry-sync-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-registry-sync-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-command-api-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-command-api-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-crash-report-info-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-crash-report-info-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-containers-v0.accurate.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-containers-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-events-lifecycle-v0.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-events-lifecycle-v0-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Selecting config fabric-climbable-api-v1.mixins.json
+[20:29:52] [main/INFO] (mixin) Remapping refMap fabric-climbable-api-v1-refmap.json using remapper chain
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-networking-v0.mixins.json (7)
+[20:29:52] [main/WARN] (mixin) @Mixin target net/minecraft/server/world/ThreadedAnvilChunkStorage$EntityTracker is public in fabric-networking-v0.mixins.json:MixinEntityTracker and should be specified in value
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-networking-blockentity-v0.mixins.json (2)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-biomes-v1.mixins.json (6)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-resource-loader-v0.mixins.json (7)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-particles-v1.mixins.json (1)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-containers-v0.mixins.json (1)
+[20:29:52] [main/DEBUG] (mixin) Preparing carefuldrops.mixins.json (7)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-object-builders-v0.mixins.json (2)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-tag-extensions-v0.mixins.json (2)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-tool-attribute-api-v1.mixins.json (2)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-rendering-data-attachment-v1.mixins.json (3)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-item-groups-v0.mixins.json (3)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-events-interaction-v0.mixins.json (5)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-loot-tables-v1.mixins.json (5)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-object-builder-v1.mixins.json (7)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-content-registries-v0.mixins.json (2)
+[20:29:52] [main/DEBUG] (mixin) Preparing fabric-dimensions-v1.mixins.json (9)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-registry-sync-v0.mixins.json (10)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-command-api-v1.mixins.json (2)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-crash-report-info-v1.mixins.json (1)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-containers-v0.accurate.mixins.json (1)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-events-lifecycle-v0.mixins.json (4)
+[20:29:53] [main/DEBUG] (mixin) Preparing fabric-climbable-api-v1.mixins.json (1)
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[20:29:53] [main/DEBUG] (mixin) Prepared 71 mixins in 0.616 sec (8.7ms avg) (0ms load, 0ms transform, 0ms plugin)
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinMinecraftServer from fabric-resource-loader-v0.mixins.json into net.minecraft.server.MinecraftServer
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinMinecraftServer from fabric-events-lifecycle-v0.mixins.json into net.minecraft.server.MinecraftServer
+[20:29:53] [main/DEBUG] (mixin) Mixing idremap.MixinLevelProperties from fabric-dimensions-v1.mixins.json into net.minecraft.world.level.LevelProperties
+[20:29:53] [main/DEBUG] (mixin) Mixing idremap.MixinLevelStorage from fabric-dimensions-v1.mixins.json into net.minecraft.world.level.storage.LevelStorage
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinWorldSaveHandler from fabric-registry-sync-v0.mixins.json into net.minecraft.world.WorldSaveHandler
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinCrashReport from fabric-crash-report-info-v1.mixins.json into net.minecraft.util.crash.CrashReport
+[20:29:53] [main/DEBUG] (mixin) Renaming synthetic method lambda$fillSystemDetails$0()Ljava/lang/String; to md3d51ae$lambda$fillSystemDetails$0$0 in fabric-crash-report-info-v1.mixins.json:MixinCrashReport
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinKeyedResourceReloadListener$Server from fabric-resource-loader-v0.mixins.json into net.minecraft.server.function.CommandFunctionManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinCommandManager from fabric-command-api-v1.mixins.json into net.minecraft.server.command.CommandManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinKeyedResourceReloadListener$Server from fabric-resource-loader-v0.mixins.json into net.minecraft.server.ServerAdvancementLoader
+[20:29:53] [main/DEBUG] (mixin) Mixing idremap.MixinDimensionRawIndexFix from fabric-dimensions-v1.mixins.json into net.minecraft.world.dimension.DimensionType
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinWorld from fabric-dimensions-v1.mixins.json into net.minecraft.world.World
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinWorld from fabric-events-lifecycle-v0.mixins.json into net.minecraft.world.World
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinViewableWorld from fabric-rendering-data-attachment-v1.mixins.json into net.minecraft.world.WorldView
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinPlayerManager from fabric-networking-v0.mixins.json into net.minecraft.server.PlayerManager
+[20:29:53] [main/DEBUG] (mixin) Mixing idremap.MixinPlayerManager from fabric-dimensions-v1.mixins.json into net.minecraft.server.PlayerManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinPlayerManager from fabric-registry-sync-v0.mixins.json into net.minecraft.server.PlayerManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinKeyedResourceReloadListener$Server from fabric-resource-loader-v0.mixins.json into net.minecraft.recipe.RecipeManager
+[20:29:53] [main/DEBUG] (mixin) Mixing EntityDropMixin from carefuldrops.mixins.json into net.minecraft.entity.LivingEntity
+[20:29:53] [main/DEBUG] (mixin) Renaming synthetic method lambda$dropLoot$0(Lnet/minecraft/server/network/ServerPlayerEntity;Ljava/util/function/Consumer;Lnet/minecraft/item/ItemStack;)V to md3d51ae$lambda$dropLoot$0$0 in carefuldrops.mixins.json:EntityDropMixin
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinLivingEntity from fabric-tool-attribute-api-v1.mixins.json into net.minecraft.entity.LivingEntity
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinLivingEntity from fabric-climbable-api-v1.mixins.json into net.minecraft.entity.LivingEntity
+[20:29:53] [main/DEBUG] (mixin) Mixing EntityHooks from fabric-dimensions-v1.mixins.json into net.minecraft.entity.Entity
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinEntity from fabric-dimensions-v1.mixins.json into net.minecraft.entity.Entity
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinKeyedResourceReloadListener$Server from fabric-resource-loader-v0.mixins.json into net.minecraft.tag.RegistryTagManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinKeyedResourceReloadListener$Server from fabric-resource-loader-v0.mixins.json into net.minecraft.loot.LootManager
+[20:29:53] [main/DEBUG] (mixin) Mixing MixinLootManager from fabric-loot-tables-v1.mixins.json into net.minecraft.loot.LootManager
+[20:29:53] [main/DEBUG] (mixin) Renaming synthetic method lambda$apply$2(Lnet/minecraft/resource/ResourceManager;Ljava/util/Map;Lnet/minecraft/util/Identifier;Lnet/minecraft/loot/LootTable;)V to md3d51ae$lambda$apply$2$0 in fabric-loot-tables-v1.mixins.json:MixinLootManager
+[20:29:53] [main/DEBUG] (mixin) Renaming synthetic method lambda$null$1(Lnet/fabricmc/fabric/api/loot/v1/FabricLootSupplierBuilder;Lnet/minecraft/util/Identifier;)Lnet/minecraft/loot/LootTable; to md3d51ae$lambda$null$1$1 in fabric-loot-tables-v1.mixins.json:MixinLootManager
+[20:29:53] [main/DEBUG] (mixin) Renaming synthetic method lambda$null$0(Ljava/util/Map;Lnet/minecraft/util/Identifier;Lnet/minecraft/loot/LootTable;)V to md3d51ae$lambda$null$0$2 in fabric-loot-tables-v1.mixins.json:MixinLootManager
+[20:29:54] [main/DEBUG] (mixin) Mixing MixinBootstrap from fabric-registry-sync-v0.mixins.json into net.minecraft.Bootstrap
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$initialize$1(Lnet/minecraft/fluid/Fluid;)Ljava/util/Collection; to md3d51ae$lambda$initialize$1$0 in fabric-registry-sync-v0.mixins.json:MixinBootstrap
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$initialize$0(Lnet/minecraft/block/Block;)Ljava/util/Collection; to md3d51ae$lambda$initialize$0$1 in fabric-registry-sync-v0.mixins.json:MixinBootstrap
+[20:29:54] [main/DEBUG] (mixin) Mixing MixinIdRegistry from fabric-registry-sync-v0.mixins.json into net.minecraft.util.registry.SimpleRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$new$5([Lnet/fabricmc/fabric/api/event/registry/RegistryIdRemapCallback;)Lnet/fabricmc/fabric/api/event/registry/RegistryIdRemapCallback; to md3d51ae$lambda$new$5$0 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$null$4([Lnet/fabricmc/fabric/api/event/registry/RegistryIdRemapCallback;Lnet/fabricmc/fabric/api/event/registry/RegistryIdRemapCallback$RemapState;)V to md3d51ae$lambda$null$4$1 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$new$3([Lnet/fabricmc/fabric/api/event/registry/RegistryEntryRemovedCallback;)Lnet/fabricmc/fabric/api/event/registry/RegistryEntryRemovedCallback; to md3d51ae$lambda$new$3$2 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$null$2([Lnet/fabricmc/fabric/api/event/registry/RegistryEntryRemovedCallback;ILnet/minecraft/util/Identifier;Ljava/lang/Object;)V to md3d51ae$lambda$null$2$3 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$new$1([Lnet/fabricmc/fabric/api/event/registry/RegistryEntryAddedCallback;)Lnet/fabricmc/fabric/api/event/registry/RegistryEntryAddedCallback; to md3d51ae$lambda$new$1$4 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$null$0([Lnet/fabricmc/fabric/api/event/registry/RegistryEntryAddedCallback;ILnet/minecraft/util/Identifier;Ljava/lang/Object;)V to md3d51ae$lambda$null$0$5 in fabric-registry-sync-v0.mixins.json:MixinIdRegistry
+[20:29:54] [main/DEBUG] (mixin) Mixing BlockBreakMixin from carefuldrops.mixins.json into net.minecraft.block.Block
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$dropStacks$1(Lnet/minecraft/server/network/ServerPlayerEntity;Ljava/util/List;Lnet/minecraft/item/ItemStack;)V to md3d51ae$lambda$dropStacks$1$0 in carefuldrops.mixins.json:BlockBreakMixin
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$dropStacks$0(Lnet/minecraft/server/network/ServerPlayerEntity;Ljava/util/List;Lnet/minecraft/item/ItemStack;)V to md3d51ae$lambda$dropStacks$0$1 in carefuldrops.mixins.json:BlockBreakMixin
+[20:29:54] [main/DEBUG] (mixin) Mixing OldMixinBlock from fabric-object-builders-v0.mixins.json into net.minecraft.block.Block
+[20:29:54] [main/DEBUG] (mixin) Mixing BlockAccessor from fabric-object-builder-v1.mixins.json into net.minecraft.block.Block
+[20:29:54] [main/DEBUG] (mixin) Mixing MixinBlock from fabric-object-builder-v1.mixins.json into net.minecraft.block.Block
+[20:29:54] [main/DEBUG] (mixin) Mixing OldMixinItem from fabric-object-builders-v0.mixins.json into net.minecraft.item.Item
+[20:29:54] [main/DEBUG] (mixin) Mixing VillagerProfessionAccessor from fabric-object-builder-v1.mixins.json into net.minecraft.village.VillagerProfession
+[20:29:54] [main/DEBUG] (mixin) Renaming @Invoker method create(Ljava/lang/String;Lnet/minecraft/world/poi/PointOfInterestType;Lcom/google/common/collect/ImmutableSet;Lcom/google/common/collect/ImmutableSet;Lnet/minecraft/sound/SoundEvent;)Lnet/minecraft/village/VillagerProfession; to create_$md$3d51ae$0 in fabric-object-builder-v1.mixins.json:VillagerProfessionAccessor
+[20:29:54] [main/DEBUG] (mixin) Mixing PointOfInterestTypeAccessor from fabric-object-builder-v1.mixins.json into net.minecraft.world.poi.PointOfInterestType
+[20:29:54] [main/DEBUG] (mixin) Renaming @Invoker method callCreate(Ljava/lang/String;Ljava/util/Set;ILjava/util/function/Predicate;I)Lnet/minecraft/world/poi/PointOfInterestType; to callCreate_$md$3d51ae$0 in fabric-object-builder-v1.mixins.json:PointOfInterestTypeAccessor
+[20:29:54] [main/DEBUG] (mixin) Renaming @Invoker method callCreate(Ljava/lang/String;Ljava/util/Set;II)Lnet/minecraft/world/poi/PointOfInterestType; to callCreate_$md$3d51ae$1 in fabric-object-builder-v1.mixins.json:PointOfInterestTypeAccessor
+[20:29:54] [main/DEBUG] (mixin) Renaming @Invoker method callSetup(Lnet/minecraft/world/poi/PointOfInterestType;)Lnet/minecraft/world/poi/PointOfInterestType; to callSetup_$md$3d51ae$2 in fabric-object-builder-v1.mixins.json:PointOfInterestTypeAccessor
+[20:29:54] [main/DEBUG] (mixin) Mixing MixinIdList from fabric-registry-sync-v0.mixins.json into net.minecraft.util.IdList
+[20:29:54] [main/DEBUG] (mixin) Renaming synthetic method lambda$fabric_remapIds$0(Lit/unimi/dsi/fastutil/ints/Int2IntMap;Ljava/lang/Object;Ljava/lang/Integer;)Ljava/lang/Integer; to md3d51ae$lambda$fabric_remapIds$0$0 in fabric-registry-sync-v0.mixins.json:MixinIdList
+[20:29:54] [main/DEBUG] (mixin) Mixing MixinFireBlock from fabric-content-registries-v0.mixins.json into net.minecraft.block.FireBlock
+[20:29:54] [main/DEBUG] (mixin) Mixing shears.PumpkinBlockMixin from carefuldrops.mixins.json into net.minecraft.block.PumpkinBlock
+[20:29:55] [main/DEBUG] (mixin) Mixing shears.BeehiveBlockMixin from carefuldrops.mixins.json into net.minecraft.block.BeehiveBlock
+[20:29:55] [main/DEBUG] (mixin) Mixing MaterialBuilderAccessor from fabric-object-builder-v1.mixins.json into net.minecraft.block.Material$Builder
+[20:29:55] [main/DEBUG] (mixin) Mixing BlockSettingsAccessor from fabric-object-builder-v1.mixins.json into net.minecraft.block.Block$Settings
+[20:29:55] [main/DEBUG] (mixin) Mixing BlockSettingsMixin from fabric-object-builder-v1.mixins.json into net.minecraft.block.Block$Settings
+[20:29:55] [main/DEBUG] (mixin) Mixing MixinBlockEntity from fabric-networking-blockentity-v0.mixins.json into net.minecraft.block.entity.BlockEntity
+[20:29:55] [main/DEBUG] (mixin) Mixing MixinBlockEntity from fabric-rendering-data-attachment-v1.mixins.json into net.minecraft.block.entity.BlockEntity
+[20:29:55] [main/DEBUG] (mixin) Mixing MixinAbstractFurnaceBlockEntity from fabric-content-registries-v0.mixins.json into net.minecraft.block.entity.AbstractFurnaceBlockEntity
+[20:29:55] [main/DEBUG] (mixin) Mixing HopperBlockEntityMixin from carefuldrops.mixins.json into net.minecraft.block.entity.HopperBlockEntity
+[20:29:56] [main/DEBUG] (mixin) Mixing MixinItemStack from fabric-tool-attribute-api-v1.mixins.json into net.minecraft.item.ItemStack
+[20:29:56] [main/DEBUG] (mixin) Mixing MixinItemGroup from fabric-item-groups-v0.mixins.json into net.minecraft.item.ItemGroup
+[20:29:57] [main/DEBUG] (mixin) Mixing ServerPlayerEntityAccessor from fabric-containers-v0.mixins.json into net.minecraft.server.network.ServerPlayerEntity
+[20:29:57] [main/DEBUG] (mixin) Mixing MixinServerPlayerEntity from fabric-events-interaction-v0.mixins.json into net.minecraft.server.network.ServerPlayerEntity
+[20:29:57] [main/DEBUG] (mixin) Mixing MixinServerPlayerEntity from fabric-containers-v0.accurate.mixins.json into net.minecraft.server.network.ServerPlayerEntity
+[20:29:57] [main/DEBUG] (mixin) Mixing shears.MooshroomEntityMixin from carefuldrops.mixins.json into net.minecraft.entity.passive.MooshroomEntity
+[20:29:57] [main/DEBUG] (mixin) Mixing shears.SheepEntityMixin from carefuldrops.mixins.json into net.minecraft.entity.passive.SheepEntity
+[20:29:58] [main/DEBUG] (mixin) Mixing MixinTag from fabric-tag-extensions-v0.mixins.json into net.minecraft.tag.Tag
+[20:29:59] [main/DEBUG] (mixin) Mixing MixinBiomeSource from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.source.BiomeSource
+[20:29:59] [main/DEBUG] (mixin) Mixing MixinVanillaLayeredBiomeSource from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.source.VanillaLayeredBiomeSource
+[20:29:59] [main/DEBUG] (mixin) Mixing MixinMinecraftDedicatedServer from fabric-command-api-v1.mixins.json into net.minecraft.server.dedicated.MinecraftDedicatedServer
+[20:29:59] [main/DEBUG] (mixin) Renaming synthetic method executeTask(Ljava/lang/Runnable;)V to md3d51ae$executeTask$0 in fabric-command-api-v1.mixins.json:MixinMinecraftDedicatedServer
+[20:29:59] [main/DEBUG] (mixin) Renaming synthetic method canExecute(Ljava/lang/Runnable;)Z to md3d51ae$canExecute$1 in fabric-command-api-v1.mixins.json:MixinMinecraftDedicatedServer
+[20:29:59] [main/DEBUG] (mixin) Renaming synthetic method createTask(Ljava/lang/Runnable;)Ljava/lang/Runnable; to md3d51ae$createTask$2 in fabric-command-api-v1.mixins.json:MixinMinecraftDedicatedServer
+[20:30:00] [main/WARN] (net.minecraft.server.command.CommandManager) Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:30:00] [main/WARN] (net.minecraft.server.command.CommandManager) Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:00] [main/WARN] (net.minecraft.server.command.CommandManager) Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:00] [main/WARN] (net.minecraft.server.command.CommandManager) Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:30:00] [main/WARN] (net.minecraft.server.command.CommandManager) Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:30:00] [main/DEBUG] (mixin) Mixing MixinReloadableResourceManagerImpl from fabric-resource-loader-v0.mixins.json into net.minecraft.resource.ReloadableResourceManagerImpl
+[20:30:00] [main/DEBUG] (mixin) Mixing MixinLootPool from fabric-loot-tables-v1.mixins.json into net.minecraft.loot.LootPool
+[20:30:00] [main/DEBUG] (mixin) Mixing MixinLootSupplier from fabric-loot-tables-v1.mixins.json into net.minecraft.loot.LootTable
+[20:30:00] [main/DEBUG] (Fabric|Loader) Iterating over entrypoint 'main'
+[20:30:00] [main/INFO] (net.minecraft.util.PrintStreamLogger) [STDOUT]: File already present at the specified location
+[20:30:00] [main/INFO] (net.minecraft.util.PrintStreamLogger) [STDOUT]: Successfully wrote to the file.
+[20:30:00] [main/INFO] (net.minecraft.util.PrintStreamLogger) [STDOUT]: Successfully wrote to the file.
+[20:30:00] [main/INFO] (net.minecraft.util.PrintStreamLogger) [STDOUT]: lol
+[20:30:00] [main/INFO] (net.minecraft.util.PrintStreamLogger) [STDOUT]: lol
+[20:30:00] [main/DEBUG] (Fabric|Loader) No subscribers for entrypoint 'server'
+[20:30:01] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Starting minecraft server version 1.15.2
+[20:30:01] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Loading properties
+[20:30:01] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Default game type: SURVIVAL
+[20:30:01] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Generating keypair
+[20:30:02] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Starting Minecraft server on *:25565
+[20:30:02] [Server thread/INFO] (net.minecraft.server.ServerNetworkIo) Using default channel type
+[20:30:03] [Server thread/DEBUG] (mixin) Mixing MixinServerPlayerInteractionManager from fabric-events-interaction-v0.mixins.json into net.minecraft.server.network.ServerPlayerInteractionManager
+[20:30:04] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Preparing level "world"
+[20:30:04] [Server thread/INFO] (net.minecraft.world.WorldSaveHandler) [fabric-registry-sync] Loaded registry data [file 1/4]
+[20:30:04] [Server thread/DEBUG] (mixin) Mixing MixinDefaultResourcePack from fabric-resource-loader-v0.mixins.json into net.minecraft.resource.DefaultResourcePack
+[20:30:04] [Server thread/INFO] (net.minecraft.resource.ReloadableResourceManagerImpl) Reloading ResourceManager: Default, Fabric Tool Attribute API (v1)
+[20:30:04] [Server-Worker-1/DEBUG] (mixin) Mixing MixinTagBuilder from fabric-tag-extensions-v0.mixins.json into net.minecraft.tag.Tag$Builder
+[20:30:06] [Server thread/INFO] (net.minecraft.recipe.RecipeManager) Loaded 6 recipes
+[20:30:07] [Server thread/DEBUG] (mixin) Mixing LootSupplierBuilderHooks from fabric-loot-tables-v1.mixins.json into net.minecraft.loot.LootTable$Builder
+[20:30:07] [Server thread/INFO] (net.minecraft.advancement.AdvancementManager) Loaded 825 advancements
+[20:30:08] [Server thread/DEBUG] (mixin) Mixing MixinSetBaseBiomesLayer from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.layer.SetBaseBiomesLayer
+[20:30:08] [Server thread/DEBUG] (mixin) Mixing MixinAddHillsLayer from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.layer.AddHillsLayer
+[20:30:08] [Server thread/DEBUG] (mixin) Mixing MixinAddEdgeBiomesLayer from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.layer.AddEdgeBiomesLayer
+[20:30:08] [Server thread/DEBUG] (mixin) Mixing MixinAddRiversLayer from fabric-biomes-v1.mixins.json into net.minecraft.world.biome.layer.AddRiversLayer
+[20:30:08] [Server thread/DEBUG] (mixin) Mixing MixinThreadedAnvilChunkStorage from fabric-networking-v0.mixins.json into net.minecraft.server.world.ThreadedAnvilChunkStorage
+[20:30:09] [Server thread/DEBUG] (mixin) Mixing MixinPortalForcer from fabric-dimensions-v1.mixins.json into net.minecraft.world.PortalForcer
+[20:30:09] [Server thread/DEBUG] (mixin) Mixing idremap.MixinUnmodifiableLevelProperties from fabric-dimensions-v1.mixins.json into net.minecraft.world.level.UnmodifiableLevelProperties
+[20:30:18] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Preparing start region for dimension minecraft:overworld
+[20:30:19] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 0%
+[20:30:19] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 0%
+[20:30:19] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 0%
+[20:30:19] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 0%
+[20:30:19] [Server thread/DEBUG] (mixin) Mixing MixinEntityTracker from fabric-networking-v0.mixins.json into net.minecraft.server.world.ThreadedAnvilChunkStorage$EntityTracker
+[20:30:23] [Server-Worker-1/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-3/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-3/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-3/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-3/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-3/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-2/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 83%
+[20:30:23] [Server-Worker-1/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 91%
+[20:30:24] [Server-Worker-2/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 91%
+[20:30:24] [Server-Worker-1/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 91%
+[20:30:25] [Server-Worker-1/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 92%
+[20:30:25] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 92%
+[20:30:26] [Server-Worker-1/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Preparing spawn area: 94%
+[20:30:26] [Server thread/INFO] (net.minecraft.server.WorldGenerationProgressLogger) Time elapsed: 8304 ms
+[20:30:26] [Server thread/INFO] (net.minecraft.server.dedicated.MinecraftDedicatedServer) Done (22.290s)! For help, type "help"
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Stopping server
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Saving players
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Saving worlds
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Saving chunks for level 'world'/minecraft:the_nether
+[20:31:21] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Saving chunks for level 'world'/minecraft:overworld
+[20:31:21] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:31:21] [Server thread/INFO] (net.minecraft.server.MinecraftServer) Saving chunks for level 'world'/minecraft:the_end
+[20:31:21] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:31:22] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:31:22] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:31:22] [Server thread/INFO] (net.minecraft.server.world.ThreadedAnvilChunkStorage) ThreadedAnvilChunkStorage (DIM1): All chunks are saved
