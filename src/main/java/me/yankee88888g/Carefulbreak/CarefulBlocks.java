@@ -26,7 +26,6 @@ public class CarefulBlocks<entity> implements ModInitializer {
 		// Proceed with mild caution.
 		SettingsManager.file();
 		WriteToFile.file();
-		WriteToFile.file2();
 		Read.getPropValues();
 		Read.getPropValues2();
 		// Load/Save the config file

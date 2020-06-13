@@ -43,7 +43,6 @@ public class CarefulDropsCommand {
                             ctx.getSource().sendFeedback(new LiteralText("Setting changed successfully"), false);
 
                             WriteToFile.file();
-                            WriteToFile.file2();
 
                             return Command.SINGLE_SUCCESS;
                         } catch (IllegalAccessException e) {

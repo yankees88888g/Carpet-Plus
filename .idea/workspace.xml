@@ -9,30 +9,20 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/loom-cache/launch.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/loom-cache/launch.cfg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/CarefulBlocks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand$ConfigFieldArgumentType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/Read.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/SettingsManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/WriteToFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/config/Careful.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/config/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/config/ConfigFileHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/EntityDropMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/HopperBlockEntityMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/shears/BeehiveBlockMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/shears/MooshroomEntityMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/shears/PumpkinBlockMixin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/mixin/shears/SheepEntityMixin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/CarefulBlocks.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/CarefulBlocks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand$ConfigFieldArgumentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand$ConfigFieldArgumentType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/Read.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/Read.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/WriteToFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/me/yankee88888g/Carefulbreak/command/WriteToFile.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/carefuldrops-3.1.0-dev.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/carefuldrops-3.1.0-dev.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/run/.mixin.out/audit/mixin_implementation_report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/config/setting.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run/config/setting.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/logs/2020-06-12-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/2020-06-12-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-1.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-2.log.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/run/logs/debug-3.log.gz" afterDir="false" />
@@ -44,12 +34,14 @@
       <change beforePath="$PROJECT_DIR$/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/usercache.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/DIM-1/data/raids_nether.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/DIM-1/data/raids_nether.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/DIM1/data/raids_end.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/world/advancements/3a5cab62-a663-4feb-a358-975c571c10bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/advancements/3a5cab62-a663-4feb-a358-975c571c10bc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/data/raids.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/level.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run/world/playerdata/3a5cab62-a663-4feb-a358-975c571c10bc.dat" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/playerdata/3a5cab62-a663-4feb-a358-975c571c10bc.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/world/playerdata/3a5cab62-a663-4feb-a358-975c571c10bc.dat" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/poi/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/poi/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/world/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/world/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run/world/region/r.-1.1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/region/r.-1.1.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/region/r.0.0.mca" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/session.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/run/world/stats/3a5cab62-a663-4feb-a358-975c571c10bc.json" beforeDir="false" afterPath="$PROJECT_DIR$/run/world/stats/3a5cab62-a663-4feb-a358-975c571c10bc.json" afterDir="false" />
@@ -57,8 +49,6 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -112,19 +102,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1258">
-              <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="88">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,17 +116,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="357">
+              <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="61" column="70" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
+            <state relative-caret-position="491">
+              <caret line="59" column="90" selection-start-line="59" selection-start-column="90" selection-end-line="59" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,26 +137,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="18">
               <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run/config/setting.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/CarefulBlocks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="238">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -183,7 +160,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-170">
+            <state relative-caret-position="306">
               <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -218,16 +195,16 @@
         <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read2.java" />
         <option value="$PROJECT_DIR$/src/main/resources/fabric.mod.json" />
         <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java" />
+        <option value="$PROJECT_DIR$/run/config/setting.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/CarefulBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java" />
-        <option value="$PROJECT_DIR$/run/config/setting.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="8" />
     <option name="width" value="1610" />
     <option name="height" value="820" />
@@ -238,6 +215,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,17 +226,6 @@
             <path>
               <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="run" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="run" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,52 +248,18 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Carefulbreak" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Carefulbreak" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Carefulbreak" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Carefulbreak" type="462c0819:PsiDirectoryNode" />
-              <item name="mixin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Carpet-Plus-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Carpet-Plus-master" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -409,27 +342,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17994858" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18123393" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Build" order="2" weight="0.20053835" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.24495289" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.24495289" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Gradle" order="0" visible="true" weight="0.15167095" />
+      <window_info anchor="right" id="Gradle" order="0" visible="true" weight="0.15102828" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -509,23 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1258">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/HopperBlockEntityMixin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -554,30 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/CarefulBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -588,27 +479,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/mixin/BlockBreakMixin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="61" column="70" selection-start-line="61" selection-start-column="70" selection-end-line="61" selection-end-column="70" />
+        <state relative-caret-position="306">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run/config/setting.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/config/CarefulDropsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="18">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/WriteToFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/CarefulBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/CarefulDropsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="44" column="47" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run/config/setting.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/yankee88888g/Carefulbreak/command/Read.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="59" column="90" selection-start-line="59" selection-start-column="90" selection-end-line="59" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

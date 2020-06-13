@@ -12,8 +12,6 @@ import static me.yankee88888g.Carefulbreak.config.CarefulDropsConfig.isOverrideK
 import static me.yankee88888g.Carefulbreak.config.CarefulDropsConfig.overrideBlockDrops;
 
 public class Read {
-    private static boolean isOverrideKeyBindProp;
-    private static boolean overrideBlockDropsProp;
 
     public static void file() throws IOException {
         Read properties = new Read();
@@ -38,7 +36,7 @@ public class Read {
         }
 
         isOverrideKeyBind = Boolean.parseBoolean(prop.getProperty("isOverrideKeyBind"));
-        isOverrideKeyBindProp = Boolean.parseBoolean(prop.getProperty("isOverrideKeyBind"));
+
         System.out.println("lol");
         System.out.println(isOverrideKeyBind);
 
@@ -60,7 +58,6 @@ public class Read {
         }
 
         overrideBlockDrops = Boolean.parseBoolean(prop.getProperty("overrideBlockDrops"));
-        overrideBlockDropsProp = Boolean.parseBoolean(prop.getProperty("overrideBlockDrops"));
         System.out.println("lol");
         System.out.println(overrideBlockDrops);
 
