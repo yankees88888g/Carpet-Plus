@@ -20,7 +20,7 @@ public class CarefulDropsConfig {
             category = "blocks",
             comment = "fast hoppers"
     )
-    public static int FastOrSlowHoppers;
+    public static boolean isFastHopper;
     @Config(
         category = "blocks",
         comment = "When true, drops from breaking/mining blocks will be placed in the player inventory instead of spawned in the world"
