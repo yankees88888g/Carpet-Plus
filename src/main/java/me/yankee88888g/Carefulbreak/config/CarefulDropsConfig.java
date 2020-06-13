@@ -4,11 +4,11 @@ package me.yankee88888g.Carefulbreak.config;
 import me.yankee88888g.Carefulbreak.command.Read;
 
 public class CarefulDropsConfig {
-    @Config(
-            category = "lol",
-            comment = "test"
+   @Config(
+            comment = "Enables /c and /s commands to quickly switch between camera and survival modes /c and /s commands are available to all players regardless of their permission levels",
+            category = "blocks"
     )
-    public static String lol = "disable";
+    public static boolean commandCameramod
     @Config(
             category = "blocks",
             comment = "only work when pressing shift"
