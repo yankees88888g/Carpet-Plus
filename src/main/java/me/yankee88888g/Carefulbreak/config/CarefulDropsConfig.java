@@ -8,7 +8,7 @@ public class CarefulDropsConfig {
             comment = "Enables /c and /s commands to quickly switch between camera and survival modes /c and /s commands are available to all players regardless of their permission levels",
             category = "blocks"
     )
-    public static boolean commandCameramod
+    public static boolean commandCameramod;
     @Config(
             category = "blocks",
             comment = "only work when pressing shift"
